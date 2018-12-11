@@ -1,0 +1,73 @@
+body {
+    /* background-image: url(''); */
+    /* color: azure; */
+    background-color: #b7b9b9;
+}
+
+
+/* .contact-section {
+    background-image: url('https://i.pinimg.com/originals/92/dd/05/92dd05be6acfbdc0ba4e30990f8cf329.jpg');
+} */
+
+.w3-bar-item {
+    border-bottom: 4px solid #f5f5f5 !important;
+}
+
+.w3-bar-item:hover {
+    transition: all .3s ease-in-out;
+    border-bottom: 4px solid purple !important;
+}
+
+.w3-display-container {
+    transition: all .5s ease-in-out;
+}
+
+.w3-display-container:hover {
+    box-shadow: 5px 5px 5px purple;
+}
+
+.w3-display-container:hover img {
+    height: 100%;
+}
+
+.w3-display-container img {
+    width: fit-content;
+}
+
+.muted {
+    /* color: #00bcd4; */
+    color: #b0bec5;
+}
+
+.contacts:hover img {
+    box-shadow: 5px 5px 5px purple;
+}
+
+.contacts:hover h3,
+.contacts:hover button {
+    color: purple !important;
+    font-weight: bolder;
+    transition: all .1s ease-in-out;
+}
+
+code {
+    /* color: #543c7c; */
+    color: #607d8b;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+footer,
+.skills-section,
+.contact-section {
+    margin-top: 10rem !important;
+}
+
+footer {
+    color: azure;
+    padding: 0 12rem !important;
+    /* background-image: url('http://www.desktopimages.org/pictures/2015/1022/2/orig_318291.jpg'); */
+    background-image: url('https://i.pinimg.com/originals/92/dd/05/92dd05be6acfbdc0ba4e30990f8cf329.jpg');
+}
