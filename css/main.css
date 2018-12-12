@@ -71,3 +71,9 @@ footer {
     /* background-image: url('http://www.desktopimages.org/pictures/2015/1022/2/orig_318291.jpg'); */
     background-image: url('https://i.pinimg.com/originals/92/dd/05/92dd05be6acfbdc0ba4e30990f8cf329.jpg');
 }
+
+@media (max-width: 480px) {
+    footer {
+        padding: 2rem 1rem !important;
+    }
+}
