@@ -72,7 +72,7 @@ footer {
     background-image: url('https://i.pinimg.com/originals/92/dd/05/92dd05be6acfbdc0ba4e30990f8cf329.jpg');
 }
 
-@media (max-width: 480px) {
+@media (max-width: 850px) {
     footer {
         padding: 2rem 1rem !important;
     }
