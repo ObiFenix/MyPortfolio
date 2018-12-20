@@ -1,2 +1,2 @@
 # Portfolio
-Deployed with Now at <portfolio-p3ks1z9oh.now.sh>
+Deployed with Now at https://portfolio-p3ks1z9oh.now.sh
